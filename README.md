@@ -22,3 +22,6 @@
 * Each ladder will have its start position at some number and end position at a larger number.
 * Whenever a piece ends up at a position with the start of the ladder, the piece should go up to the position of the end of that ladder.
 * There could be another snake/ladder at the tail of the snake or the end position of the ladder and the piece should go up/down accordingly.
+# Output
+![Img](https://github.com/Potturisarvani/SnakesandLadder/blob/main/Snakesandladder1.png)
+![Img](https://github.com/Potturisarvani/SnakesandLadder/blob/main/SnakesandLadder2.png)
